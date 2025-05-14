@@ -17,7 +17,7 @@ This mobile application is designed to assist visually impaired individuals in n
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/door-navigation-assistant.git
+   git clone https://github.com/haneenalaa465/IndoorNavigationApp.git
    ```
 
 2. **Open in Android Studio**
